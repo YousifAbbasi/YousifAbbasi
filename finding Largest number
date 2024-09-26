@@ -1,0 +1,10 @@
+# Python code to find the largest number in a list
+
+# Define a list of numbers
+numbers = [10, 34, 76, 23, 56, 89, 12]
+
+# Use the max() function to find the largest number
+largest_number = max(numbers)
+
+# Print the result
+print("The largest number is:", largest_number)
